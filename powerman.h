@@ -23,7 +23,7 @@ void print_help(const char* progname);
 
 // General, useful constants
 static const uint16_t POWER_VENDOR  = 0x1BDA;
-static const uint16_t POWER_PRODUCT = 0x0011;
+static const uint16_t POWER_PRODUCT = 0x0010;
 
 // Main entry points
 int main_lsusb(void);
